@@ -1,6 +1,4 @@
-Since you're currently editing the `README.md` for your **IPL-Dashboard** project, a great README should explain what the project does, the tools you used (Power BI), and how others can use it.
 
-Here is a professional template you can copy and paste directly into the editor on your screen:
 
 ---
 
